@@ -63,10 +63,10 @@ The app allows users to search for items like _“red sneakers under $50 for men
 > Insert your screenshots below these headings once the app is running
 
 ### 🎯 Search Results with Images
-![Search Results](screenshots/search_results_grid.png)
+![Search Results](https://github.com/DSM2499/AI_Catalog_Search/blob/main/Screenshots/search_query.png)
 
 ### 🧾 Sidebar Filters
-![Filters](screenshots/sidebar_filters.png)
+![Filters](https://github.com/DSM2499/AI_Catalog_Search/blob/main/Screenshots/filters.png)
 
 ---
 ## 💡 Use Cases
